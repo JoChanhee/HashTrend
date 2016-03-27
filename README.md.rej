@@ -1,0 +1,4 @@
+diff a/README.md b/README.md	(rejected hunks)
+@@ -0,0 +1,2 @@
++# HashTrend
++해시태그 데이터마이닝을 이용한 트렌드 반영 아이템 추천 서비스
