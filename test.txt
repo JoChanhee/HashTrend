@@ -1,1 +1,8 @@
-hi hihii
+인스타그램 API개발자 등록
+https://jkimau.github.io/javascript/2015/09/02/instagram-api.html
+http://data-rider.blogspot.kr/2015/08/blog-post_57.html
+http://bellsilver7.tistory.com/25
+http://gilynh.com/archives/category/programming/instagram-api
+
+인스타그램 access token 얻어오기
+http://kjvvv.kr/11332
